@@ -1,0 +1,64 @@
+body {
+    font-family: arial;
+    font-weight: bold;
+    color: gray;
+}
+h1 {
+    color: #EB4A5E;
+    font-size: 30px;
+}
+p {
+    font-size: 12px;
+}
+header {
+    width: 70%;
+    margin-left: 15%;
+    border-bottom: 3px solid lightgray;
+    margin-top: 30px;
+}
+main {
+    width: 70%;
+    margin-left: 15%;
+    display: inline-block;
+    border-bottom: 3px solid lightgray;
+}
+#logo {
+    width: 80%;
+    margin-top: 100px;
+}
+#left {
+    float: left;
+    width: 40%;
+}
+#lempa {
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    margin-bottom: 0;
+}
+#bottom {
+    display: inline-block;
+}
+#left2 {
+    float: left;
+    width: 80%;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+#Giro {
+    float: left;
+    width: 20%;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    font-size: 25px;
+    margin: 0;
+    transform: rotate(5deg);
+    color: black;
+    line-height: 1em;
+}
+#Giro300 {
+    font-size: 35px;
+}
+a {
+    color: #EB4A5E;
+}
